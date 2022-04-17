@@ -1,0 +1,120 @@
+body {
+    background-color: #E4E9FD;
+    background-image: -webkit-linear-gradient(65deg, #000000 50%, #414244 50%);
+    min-height: 1000px;
+    font-family: 'helvetica neue';
+}
+
+.nav-color{
+    background-color: pink;
+}
+
+.box {
+    height: 600px;
+    max-width: 400px;
+    margin: 50px auto;
+    margin-top: 15vh;
+    background: white;
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+    background-image: url(https://i.pinimg.com/originals/aa/80/73/aa8073504dacdf71e674525c645f48b9.jpg);
+}
+
+.heading {
+    background-color: #A683E3;
+    text-align: center;
+  }
+
+
+label {
+  padding: 12px 12px 12px 0;
+  display: inline-block;
+  color: pink;
+  font-family: "Lobster", Sans-serif;
+  font-size: large;
+}
+
+form {
+    text-align: center;
+    margin-left: 20px;
+    line-height: 2rem;
+    margin-top: 50px;
+    padding-top: 20px ;
+}
+
+
+.imgsz{
+    height: 100vh;
+    width: 175vh;
+    align-items: center;
+    position: relative;
+    border-radius: 10px;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+  }
+
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  color: blue;
+  font-family: "Lobster", Sans-serif;
+  font-size: xx-large;
+}
+ 
+.f{
+    color: rgb(255, 251, 6);
+    font-family: "Lobster", Sans-serif;
+    font-size: x-large;
+
+}
+
+.l{
+    color: greenyellow;
+    font-family: "Lobster", Sans-serif;
+    font-size: x-large;
+}
+
+.a{
+    color: blue;
+    font-family: "Lobster", Sans-serif;
+    font-size: x-large;
+}
+
+.m{
+    color: orange;
+    font-family: "Lobster", Sans-serif;
+    font-size: x-large;
+}
+
+.e{
+    color: red;
+    font-family: "Lobster", Sans-serif;
+    font-size: x-large;
+}
+
+.s{
+    color: pink;
+    font-family: "Lobster", Sans-serif;
+    font-size: x-large;
+}
+
+.heading{
+    height: 50px;
+    font-family: "Lobster", Sans-serif;
+}
+
+.navbar-brand{
+    color: #00eeff;
+    font-family: "Trebuchet MS", sans-serif;
+    text-shadow: 0 0 5px pink, 0 0 10px pink,
+             0 0 20px pink, 0 0 30px pink,
+             0 0 40px pink;
+  }
+
+.te{
+    color: #00eeff;
+}
